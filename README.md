@@ -13,3 +13,6 @@ COMPANY : CODTECH IT SOLUTIONS NAME : ABHISHEK.L INTERN ID: CT04DH626 DOMAIN : D
 📤 Output cleaned_sales_data.csv – Processed and cleaned data (CSV format)
 
 🧰 Technologies Used Python 3.8 Pandas – for data manipulation Scikit-learn – for encoding and scaling OpenPyXL – for reading .xlsx files
+
+#output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8a18cf00-e3f0-41c4-ba26-2da7173f2872" />
