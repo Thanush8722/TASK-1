@@ -1,6 +1,6 @@
 # TASK-1
 Internship-Tasks
-COMPANY : CODTECH IT SOLUTIONS NAME : ABHISHEK.L INTERN ID: CT04DH626 DOMAIN : DATA SCIENCE DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
+COMPANY : CODTECH IT SOLUTIONS NAME : THANUSH KUMAR SM INTERN ID: CT04DH163 DOMAIN : DATA SCIENCE DURATION : 4 WEEKS MENTOR : NEELA SANTOSH
 
 ##DESCRIPTION -🧾 Project: ETL Data Pipeline – CodTech Internship Task This project is a simple ETL (Extract, Transform, Load) data pipeline developed in Python using Pandas and Scikit-learn. It was completed as part of my internship at CodTech.
 
